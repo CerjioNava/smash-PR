@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Falchion is Busted! #2",
+    "addrState": "Carabobo",
+    "numAttendees": 29,
+    "startAt": 1670081400,
+    "events": [
+      {
+        "slug": "tournament/falchion-is-busted-2/event/ultimate-singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 2, "player": { "gamerTag": "Ajota" } },
+            { "placement": 3, "player": { "gamerTag": "Clay" } },
+            { "placement": 4, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 5, "player": { "gamerTag": "BTO" } },
+            { "placement": 5, "player": { "gamerTag": "Maico" } },
+            { "placement": 7, "player": { "gamerTag": "Musul" } },
+            { "placement": 7, "player": { "gamerTag": "Joe" } },
+            { "placement": 9, "player": { "gamerTag": "Zorro" } },
+            { "placement": 9, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 9, "player": { "gamerTag": "Usu" } },
+            { "placement": 9, "player": { "gamerTag": "Lon" } },
+            { "placement": 13, "player": { "gamerTag": "Sactait" } },
+            { "placement": 13, "player": { "gamerTag": "ALVAROARM" } },
+            { "placement": 13, "player": { "gamerTag": "JustBen" } },
+            { "placement": 13, "player": { "gamerTag": "Nutella" } },
+            { "placement": 17, "player": { "gamerTag": "Mezen" } },
+            { "placement": 17, "player": { "gamerTag": "DIO" } },
+            { "placement": 17, "player": { "gamerTag": "Sworzza" } },
+            { "placement": 17, "player": { "gamerTag": "Mr.Reyes" } },
+            { "placement": 17, "player": { "gamerTag": "AG1" } },
+            { "placement": 17, "player": { "gamerTag": "Masox" } },
+            { "placement": 17, "player": { "gamerTag": "Black/" } },
+            { "placement": 17, "player": { "gamerTag": "Z" } },
+            { "placement": 25, "player": { "gamerTag": "AngeloStein" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Falchion Finale",
+    "addrState": "Carabobo",
+    "numAttendees": 46,
+    "startAt": 1673708400,
+    "events": [
+      {
+        "slug": "tournament/falchion-finale/event/ultimate-singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "Ajota" } },
+            { "placement": 2, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 3, "player": { "gamerTag": "BlayJezu" } },
+            { "placement": 4, "player": { "gamerTag": "BTO" } },
+            { "placement": 5, "player": { "gamerTag": "Luther" } },
+            { "placement": 5, "player": { "gamerTag": "Vunioq" } },
+            { "placement": 7, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 7, "player": { "gamerTag": "Musul" } },
+            { "placement": 9, "player": { "gamerTag": "Nava" } },
+            { "placement": 9, "player": { "gamerTag": "Maico" } },
+            { "placement": 9, "player": { "gamerTag": "END" } },
+            { "placement": 9, "player": { "gamerTag": "Clay" } },
+            { "placement": 13, "player": { "gamerTag": "Carambañero" } },
+            { "placement": 13, "player": { "gamerTag": "Lon" } },
+            { "placement": 13, "player": { "gamerTag": "Maves" } },
+            { "placement": 13, "player": { "gamerTag": "Zorro" } },
+            { "placement": 17, "player": { "gamerTag": "Yisus" } },
+            { "placement": 17, "player": { "gamerTag": "Fran" } },
+            { "placement": 17, "player": { "gamerTag": "Nutella" } },
+            { "placement": 17, "player": { "gamerTag": "JustBen" } },
+            { "placement": 17, "player": { "gamerTag": "JJ" } },
+            { "placement": 17, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 17, "player": { "gamerTag": "Ziosk" } },
+            { "placement": 17, "player": { "gamerTag": "Joe" } },
+            { "placement": 25, "player": { "gamerTag": "465" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Axex Smash League",
+    "addrState": "Carabobo",
+    "numAttendees": 35,
+    "startAt": 1677938400,
+    "events": [
+      {
+        "slug": "tournament/axex-smash-league/event/singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 2, "player": { "gamerTag": "BTO" } },
+            { "placement": 3, "player": { "gamerTag": "Clay" } },
+            { "placement": 4, "player": { "gamerTag": "Maico" } },
+            { "placement": 5, "player": { "gamerTag": "Joe" } },
+            { "placement": 5, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 7, "player": { "gamerTag": "Luther" } },
+            { "placement": 7, "player": { "gamerTag": "Blanco" } },
+            { "placement": 9, "player": { "gamerTag": "Ajota" } },
+            { "placement": 9, "player": { "gamerTag": "Nava" } },
+            { "placement": 9, "player": { "gamerTag": "DIO" } },
+            { "placement": 9, "player": { "gamerTag": "Zorro" } },
+            { "placement": 13, "player": { "gamerTag": "ALVAROARM" } },
+            { "placement": 13, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 13, "player": { "gamerTag": "AG1" } },
+            { "placement": 13, "player": { "gamerTag": "Yisus" } },
+            { "placement": 17, "player": { "gamerTag": "WOLF" } },
+            { "placement": 17, "player": { "gamerTag": "Winkcover" } },
+            { "placement": 17, "player": { "gamerTag": "Usu" } },
+            { "placement": 17, "player": { "gamerTag": "Sactait" } },
+            { "placement": 17, "player": { "gamerTag": "iBraJP" } },
+            { "placement": 17, "player": { "gamerTag": "Waluigi" } },
+            { "placement": 17, "player": { "gamerTag": "anye" } },
+            { "placement": 17, "player": { "gamerTag": "X-Raydix" } },
+            { "placement": 25, "player": { "gamerTag": "Sworzza" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Country kong",
+    "addrState": "Carabobo",
+    "numAttendees": 43,
+    "startAt": 1679148000,
+    "events": [
+      {
+        "slug": "tournament/country-kong/event/singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "Clay" } },
+            { "placement": 2, "player": { "gamerTag": "Ajota" } },
+            { "placement": 3, "player": { "gamerTag": "GARU" } },
+            { "placement": 4, "player": { "gamerTag": "BTO" } },
+            { "placement": 5, "player": { "gamerTag": "Maico" } },
+            { "placement": 5, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 7, "player": { "gamerTag": "Vunioq" } },
+            { "placement": 7, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 9, "player": { "gamerTag": "cémi" } },
+            { "placement": 9, "player": { "gamerTag": "Luther" } },
+            { "placement": 9, "player": { "gamerTag": "Maves" } },
+            { "placement": 9, "player": { "gamerTag": "Joe" } },
+            { "placement": 13, "player": { "gamerTag": "Nava" } },
+            { "placement": 13, "player": { "gamerTag": "Musul" } },
+            { "placement": 13, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 13, "player": { "gamerTag": "GR3i" } },
+            { "placement": 17, "player": { "gamerTag": "Usu" } },
+            { "placement": 17, "player": { "gamerTag": "Fran" } },
+            { "placement": 17, "player": { "gamerTag": "Blanco" } },
+            { "placement": 17, "player": { "gamerTag": "END" } },
+            { "placement": 17, "player": { "gamerTag": "DIO" } },
+            { "placement": 17, "player": { "gamerTag": "Ragzeo" } },
+            { "placement": 17, "player": { "gamerTag": "Carambañero" } },
+            { "placement": 17, "player": { "gamerTag": "Zorro" } },
+            { "placement": 25, "player": { "gamerTag": "AG1" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Axex Smash League #2",
+    "addrState": "Carabobo",
+    "numAttendees": 32,
+    "startAt": 1680361200,
+    "events": [
+      {
+        "slug": "tournament/axex-smash-league-2/event/ultimate-singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "BTO" } },
+            { "placement": 2, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 3, "player": { "gamerTag": "Blanco" } },
+            { "placement": 4, "player": { "gamerTag": "Clay" } },
+            { "placement": 5, "player": { "gamerTag": "Zorro" } },
+            { "placement": 5, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 7, "player": { "gamerTag": "Maico" } },
+            { "placement": 7, "player": { "gamerTag": "Ajota" } },
+            { "placement": 9, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 9, "player": { "gamerTag": "Fran" } },
+            { "placement": 9, "player": { "gamerTag": "Sactait" } },
+            { "placement": 9, "player": { "gamerTag": "Usu" } },
+            { "placement": 13, "player": { "gamerTag": "DIO" } },
+            { "placement": 13, "player": { "gamerTag": "X-Raydix" } },
+            { "placement": 13, "player": { "gamerTag": "Nava" } },
+            { "placement": 13, "player": { "gamerTag": "Ragzeo" } },
+            { "placement": 17, "player": { "gamerTag": "Tsubasa" } },
+            { "placement": 17, "player": { "gamerTag": "Thomas1" } },
+            { "placement": 17, "player": { "gamerTag": "Sworzza" } },
+            { "placement": 17, "player": { "gamerTag": "Waluigi" } },
+            { "placement": 17, "player": { "gamerTag": "Yisus" } },
+            { "placement": 17, "player": { "gamerTag": "Angeru" } },
+            { "placement": 17, "player": { "gamerTag": "Mezen" } },
+            { "placement": 17, "player": { "gamerTag": "MFWatson07" } },
+            { "placement": 25, "player": { "gamerTag": "Blasetic" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Planet Zebes",
+    "addrState": "Carabobo",
+    "numAttendees": 28,
+    "startAt": 1682740800,
+    "events": [
+      {
+        "slug": "tournament/planet-zebes/event/singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 2, "player": { "gamerTag": "BTO" } },
+            { "placement": 3, "player": { "gamerTag": "Quantum" } },
+            { "placement": 4, "player": { "gamerTag": "Ajota" } },
+            { "placement": 5, "player": { "gamerTag": "Maico" } },
+            { "placement": 5, "player": { "gamerTag": "Zorro" } },
+            { "placement": 7, "player": { "gamerTag": "Nava" } },
+            { "placement": 7, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 9, "player": { "gamerTag": "Joe" } },
+            { "placement": 9, "player": { "gamerTag": "iShtAR" } },
+            { "placement": 9, "player": { "gamerTag": "Luther" } },
+            { "placement": 9, "player": { "gamerTag": "DIO" } },
+            { "placement": 13, "player": { "gamerTag": "Tsubasa" } },
+            { "placement": 13, "player": { "gamerTag": "AG1" } },
+            { "placement": 13, "player": { "gamerTag": "Wag1g" } },
+            { "placement": 13, "player": { "gamerTag": "JustBen" } },
+            { "placement": 17, "player": { "gamerTag": "MasoX" } },
+            { "placement": 17, "player": { "gamerTag": "Sactait" } },
+            { "placement": 17, "player": { "gamerTag": "ALVAROARM" } },
+            { "placement": 17, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 21, "player": { "gamerTag": "Oddiarrea" } },
+            { "placement": 21, "player": { "gamerTag": "iBraJP" } },
+            { "placement": 21, "player": { "gamerTag": "Crunch" } },
+            { "placement": 21, "player": { "gamerTag": "Mezen" } },
+            { "placement": 25, "player": { "gamerTag": "SFen1x" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Tecni Showdown",
+    "addrState": "Carabobo",
+    "numAttendees": 30,
+    "startAt": 1683990000,
+    "events": [
+      {
+        "slug": "tournament/tecni-showdown-2/event/ultimate-singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 2, "player": { "gamerTag": "Maico" } },
+            { "placement": 3, "player": { "gamerTag": "Luther" } },
+            { "placement": 4, "player": { "gamerTag": "Musul" } },
+            { "placement": 5, "player": { "gamerTag": "Alzus" } },
+            { "placement": 5, "player": { "gamerTag": "Mor-8" } },
+            { "placement": 7, "player": { "gamerTag": "Ajota" } },
+            { "placement": 7, "player": { "gamerTag": "Joe" } },
+            { "placement": 9, "player": { "gamerTag": "DIO" } },
+            { "placement": 9, "player": { "gamerTag": "Theo_neo" } },
+            { "placement": 9, "player": { "gamerTag": "Zorro" } },
+            { "placement": 9, "player": { "gamerTag": "Sactait" } },
+            { "placement": 13, "player": { "gamerTag": "Usu" } },
+            { "placement": 13, "player": { "gamerTag": "JustBen" } },
+            { "placement": 13, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 13, "player": { "gamerTag": "Ragzeo" } },
+            { "placement": 17, "player": { "gamerTag": "Mezen" } },
+            { "placement": 17, "player": { "gamerTag": "Oddiarrea" } },
+            { "placement": 17, "player": { "gamerTag": "AG1" } },
+            { "placement": 17, "player": { "gamerTag": "anye" } },
+            { "placement": 17, "player": { "gamerTag": "Yisus" } },
+            { "placement": 17, "player": { "gamerTag": "Rox" } },
+            { "placement": 17, "player": { "gamerTag": "Sworzza" } },
+            { "placement": 17, "player": { "gamerTag": "X-Raydix" } },
+            { "placement": 25, "player": { "gamerTag": "MFWatson07" } }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nitrotoon Smash Tournament",
+    "addrState": "Carabobo",
+    "numAttendees": 43,
+    "startAt": 1687014000,
+    "events": [
+      {
+        "slug": "tournament/nitrotoon-smash-tournament/event/ultimate-singles",
+        "type": 1,
+        "standings": {
+          "nodes": [
+            { "placement": 1, "player": { "gamerTag": "Styx" } },
+            { "placement": 2, "player": { "gamerTag": "Ajota" } },
+            { "placement": 3, "player": { "gamerTag": "ER Kapu" } },
+            { "placement": 4, "player": { "gamerTag": "OliverKenji" } },
+            { "placement": 5, "player": { "gamerTag": "END" } },
+            { "placement": 5, "player": { "gamerTag": "Max1mu" } },
+            { "placement": 7, "player": { "gamerTag": "Luther" } },
+            { "placement": 7, "player": { "gamerTag": "Ziosk" } },
+            { "placement": 9, "player": { "gamerTag": "Maico" } },
+            { "placement": 9, "player": { "gamerTag": "AG1" } },
+            { "placement": 9, "player": { "gamerTag": "Ragzeo" } },
+            { "placement": 9, "player": { "gamerTag": "DIO" } },
+            { "placement": 13, "player": { "gamerTag": "HKR" } },
+            { "placement": 13, "player": { "gamerTag": "Nava" } },
+            { "placement": 13, "player": { "gamerTag": "Lon" } },
+            { "placement": 13, "player": { "gamerTag": "Zorro" } },
+            { "placement": 17, "player": { "gamerTag": "Angeru" } },
+            { "placement": 17, "player": { "gamerTag": "Sworzza" } },
+            { "placement": 17, "player": { "gamerTag": "JustBen" } },
+            { "placement": 17, "player": { "gamerTag": "Joe" } },
+            { "placement": 17, "player": { "gamerTag": "Usu" } },
+            { "placement": 17, "player": { "gamerTag": "Tsubasa" } },
+            { "placement": 17, "player": { "gamerTag": "Sactait" } },
+            { "placement": 17, "player": { "gamerTag": "Alzus" } },
+            { "placement": 25, "player": { "gamerTag": "Gabs" } }
+          ]
+        }
+      }
+    ]
+  }
+]
