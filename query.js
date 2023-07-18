@@ -1,4 +1,4 @@
-const getCaraboboTournaments = 
+const getTournamentsInfo = 
 `query TournamentsCarabobo(
   $perPage: Int, 
   $page: Int, 
@@ -29,7 +29,7 @@ const getCaraboboTournaments =
       events(limit: 1, filter: {videogameId: [$videogameId], type: 1}) {
         slug
         type
-        standings(query: {}) {
+        standings(query: {page:$page, perPage:$perPage}) {
           nodes {
             placement
             player {
@@ -42,4 +42,4 @@ const getCaraboboTournaments =
   }
 }`;
 
-module.exports = { getCaraboboTournaments };
+module.exports = { getTournamentsInfo };

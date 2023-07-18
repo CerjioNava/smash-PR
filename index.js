@@ -3,22 +3,22 @@ const axios = require("axios");
 const fs = require("fs");
 require("dotenv").config();
 
-const { getCaraboboTournaments } = require("./query.js");
+const { getTournamentsInfo } = require("./query.js");
 
 // Main process
 const main = async () => {
     let { data } = await axios.post(
         process.env.API_URL,
         {
-            query: getCaraboboTournaments,
+            query: getTournamentsInfo,
             variables: {
-                page: 1,
-                perPage: 100,
+                page: process.env.PAGES,
+                perPage: process.env.PERPAGE,
                 cCode: process.env.COUNTRYCODE,
                 state: process.env.STATE,
                 videogameId: process.env.SMASH_ULTIMATE_ID,
-                afterDate: 1670080000,
-                beforeDate: 1688824800,
+                afterDate: Number(process.env.AFTERDATE),
+                beforeDate: Number(process.env.BEFOREDATE),
             },
         },
         {
@@ -33,13 +33,13 @@ const main = async () => {
         const tournamentsData = data.data.tournaments.nodes.reverse();
         console.log(`Torneos encontrados: ${tournamentsData.length}`);
         const jsonData = JSON.stringify(tournamentsData);
-
+                
         fs.writeFile("data.json", jsonData, (err) => {
             if (err) throw err;
             console.log("El archivo ha sido creado!");
         });
     } else {
-        console.log("Query invalida");
+        console.error("Query invalida");
     }
 };
 
